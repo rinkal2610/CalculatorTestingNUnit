@@ -32,6 +32,11 @@ namespace CalcNunitEx1Day10
             Assert.AreEqual(4, calc.Div(16, 4));
         }
         [Test]
+        public void TestDivException()
+        {
+            Assert.Throws<DivideByZeroException>(() => calc.Div(5, 0));
+        }
+        [Test]
         public void TestPrime()
         {
             Assert.AreEqual(true, calc.IsPrime(5));

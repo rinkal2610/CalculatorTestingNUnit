@@ -22,6 +22,11 @@ namespace CalcNunitEx1Day10
         }
         public int Div(int a, int b)
         {
+            if (b == 0)
+            {
+                throw
+                    new DivideByZeroException("cannot divide by 0");
+            }
             return a / b;
         }
         static int x= 2;
