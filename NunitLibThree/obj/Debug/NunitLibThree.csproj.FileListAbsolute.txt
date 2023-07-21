@@ -1,0 +1,9 @@
+C:\DotNetTraining\Day10\CalcNunitEx1Day10\NunitLibThree\bin\Debug\NunitLibThree.dll
+C:\DotNetTraining\Day10\CalcNunitEx1Day10\NunitLibThree\bin\Debug\NunitLibThree.pdb
+C:\DotNetTraining\Day10\CalcNunitEx1Day10\NunitLibThree\bin\Debug\nunit.framework.dll
+C:\DotNetTraining\Day10\CalcNunitEx1Day10\NunitLibThree\bin\Debug\nunit.framework.xml
+C:\DotNetTraining\Day10\CalcNunitEx1Day10\NunitLibThree\obj\Debug\NunitLibThree.csproj.AssemblyReference.cache
+C:\DotNetTraining\Day10\CalcNunitEx1Day10\NunitLibThree\obj\Debug\NunitLibThree.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\Day10\CalcNunitEx1Day10\NunitLibThree\obj\Debug\NunitLibThree.csproj.CopyComplete
+C:\DotNetTraining\Day10\CalcNunitEx1Day10\NunitLibThree\obj\Debug\NunitLibThree.dll
+C:\DotNetTraining\Day10\CalcNunitEx1Day10\NunitLibThree\obj\Debug\NunitLibThree.pdb
